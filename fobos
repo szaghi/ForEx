@@ -1,0 +1,5 @@
+[default]
+compiler  = gnu
+cflags    = -c -cpp -ffree-line-length-none
+inc       = .i90
+build_dir = tests
